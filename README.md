@@ -91,6 +91,7 @@ API tested using Postman.
 
 ## 👨‍💻 Authors
 
-Ismail Boulaich and team
+Ismail Boulaich
 
 Academic project
+
